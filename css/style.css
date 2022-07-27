@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-image: url(images/image-lion-background.png);
+  background-image: url('../images/image-lion-background.png');
   background-position: top center;
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
@@ -49,8 +49,8 @@ main {
   text-align: center;
 }
 
-.cards1 {
-  background-image: url(images/image-background-card1.jpg);
+.card1{
+  background-image: url('../images/image-background-card1.jpg');
   background-size: cover;
   background-position: bottom;
   min-height: 250px;
@@ -58,8 +58,8 @@ main {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-.cards2 {
-  background-image: url(images/image-background-card2.jpg);
+.card2 {
+  background-image: url(../images/image-background-card2.jpg);
   background-size: cover;
   background-position: bottom;
   min-height: 250px;
@@ -67,8 +67,8 @@ main {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-.cards3 {
-  background-image: url(images/image-background-card3.jpg);
+.card3 {
+  background-image: url(../images/image-background-card3.jpg);
   background-size: cover;
   background-position: bottom;
   min-height: 250px;
