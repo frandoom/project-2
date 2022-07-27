@@ -90,6 +90,10 @@ main {
   flex: 1;
 }
 
+.herobox2 img {
+  border-radius: 10px;
+}
+
 h1 {
   font-size: 3.25rem;
   font-family: 'Playfair Display', serif;
